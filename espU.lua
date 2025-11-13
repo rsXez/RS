@@ -1,4 +1,4 @@
-ow esp works:
+How esp works:
 
     layout:
     ┌─────────┐  
